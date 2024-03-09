@@ -1,5 +1,5 @@
 {
-"name": "aI-recipe-generator",
+"name": "ai-recipe-generator",
 "version": "1.0.0",
 "description": "project is aimed at developing a web application that utilizes machine learning techniques to generate unique and creative recipes. ",
 "main": "index.js",
